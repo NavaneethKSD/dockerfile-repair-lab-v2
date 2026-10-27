@@ -1,4 +1,4 @@
-"""incident-api: a small Flask service for DevOps Foundation LU 4.2.
+"""incident-api: a small Flask service used to practise Docker image builds.
 
 Run locally without Docker:  pip install -r requirements.txt && python app.py
 The app code is correct. Only the Docker packaging is broken.

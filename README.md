@@ -1,4 +1,4 @@
-# Dockerfile Repair Lab (DevOps Foundation, LU 4.2)
+# Dockerfile Repair Lab (DevOps Foundation)
 
 `incident-api` is a small Flask service. **The Python code is correct.** The Docker packaging is broken: the image does not build, and after you get it building, the container still does not start.
 
